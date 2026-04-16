@@ -17,7 +17,7 @@ ADIF_FILE = Path("n1mm_udp_log.adi")
 
 # MiniLog API endpoint
 #MINILOG_URL = "http://localhost:5000/api/qso"
-MINILOG_URL = "http://138.121.160.240:5000/api/qso"
+MINILOG_URL = "http://IPIPIPIPIPIPIP:5000/api/qso"
 
 # Crear archivo ADIF con header si no existe
 if not ADIF_FILE.exists():
